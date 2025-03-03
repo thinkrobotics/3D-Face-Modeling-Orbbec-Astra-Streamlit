@@ -1,0 +1,13 @@
+streamlit
+opencv-python
+numpy
+mediapipe
+matplotlib
+scipy
+scikit-image
+Pillow
+torch
+torchvision
+trimesh
+pyglet
+imageio
