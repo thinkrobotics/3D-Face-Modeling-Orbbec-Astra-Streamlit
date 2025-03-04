@@ -100,16 +100,4 @@ This project successfully demonstrates how a 2D image can be converted into a 3D
 
 With further improvements, this technology can be used in 3D animation, virtual reality, and medical imaging.
 
----
 
-### Author:
-
-[Your Name]
-
-### License:
-
-[Specify License Here]
-
-### Contact:
-
-[Your Contact Information]
