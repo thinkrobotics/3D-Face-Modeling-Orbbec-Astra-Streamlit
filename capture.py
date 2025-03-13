@@ -7,7 +7,7 @@ from datetime import datetime
 def capture_image():
     st.title("Capture Image for 3D Modeling")
 
-    cam = cv2.VideoCapture(2)
+    cam = cv2.VideoCapture(0)
     if not cam.isOpened():
         st.error("Could not access the camera")
         return None
